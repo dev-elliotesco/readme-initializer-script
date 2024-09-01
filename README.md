@@ -24,7 +24,7 @@ Pasos para ejecutar el proyecto:
 
 ```bash
 # Comando para iniciar el generador de templates de README.md
-bash generate_readme.sh
+./script/readme-initializer.sh
 ```
 
 ## Contribución 
